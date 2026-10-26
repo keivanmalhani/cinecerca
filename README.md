@@ -12,6 +12,7 @@ I'm building CineCerca to make it easier to find a film, compare screenings acro
 - Discover major chains, Cineteca venues, and independent cinemas together.
 - Explore nearby cinemas on a map and compare available showtimes.
 - See genres, available Letterboxd ratings, and approximate driving times.
+- Filter upcoming films by cinema, genre, or your saved movies.
 - Browse in English or Spanish, and save favorite films and cinemas.
 - Continue to the cinema's own booking service for tickets.
 
